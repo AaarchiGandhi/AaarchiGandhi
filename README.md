@@ -17,7 +17,7 @@ My name is Aarchi Gandhi and I am a Software Engineer at Accenture. I 🎓gradua
 ![](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=REACT&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Framework-Spring-informational?style=flat&logo=SPRING&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=TYPESCRIPT&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=JAVA&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=JAVA&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=WINDOWS&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-VisualStudioCode-informational?style=flat&logo=VISUALSTUDIOCODE&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-IntelliJIDEA-informational?style=flat&logo=INTELLIJIDEA&logoColor=white&color=2bbc8a)
