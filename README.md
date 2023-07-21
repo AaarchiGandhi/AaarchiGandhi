@@ -4,7 +4,7 @@ My name is Aarchi Gandhi and I am a Software Engineer at Accenture. I 🎓gradua
 
 - 🔭 I’m currently working on my System Design & DSA Concepts.
 - 🌱 I’m currently exploring and grinding as a Full Stack Developer.
-- 🤔 I’m looking for motivation to start writing my own tech youtube channel and also to include self-care in my daily routine.
+- 🤔 I’m looking for motivation to start my own tech youtube channel and also to include self-care in my daily routine.
 - 💬 Ask me about anything: Love chess♕ as much as I do? Let's talk about how awesome it is!!    
 - ⚡ Fun fact: I ❤️ reading books.🙈
 
