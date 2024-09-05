@@ -1,6 +1,6 @@
 ## Hola, I'm Aarchi Gandhi! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Aarchi Gandhi and I am a Software Engineer at Accenture. I 🎓graduated from SilverOak University in CSE 2021. 
+My name is Aarchi Gandhi and I am a Senior Software Engineer at ServiceNow. I 🎓graduated from SilverOak University in CSE 2021. 
 
 - 🔭 I’m currently working on my System Design & DSA Concepts.
 - 🌱 I’m currently exploring and grinding as a Full Stack Developer.
